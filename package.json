@@ -1,0 +1,14 @@
+{
+  "name": "curseofaros-leaderboard-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/yCaioBB/curseofaros-leaderboard-api.git",
+  "author": "RandomDev <itscaiobb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
